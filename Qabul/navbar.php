@@ -14,7 +14,7 @@
     <!-- bootstrap icons link end -->
 </head>
 
-<body>
+<body >
     <nav class="row bg-dark-subtle ">
         <div class="justify-content-center d-flex ">
             <h1 class="text-primary-emphasis "><span class="text-primary">Uz</span>
